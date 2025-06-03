@@ -3,7 +3,6 @@ $urls = @(
     "https://upskillmeet.com/"
     "https://ublisyoga-dashboard.brightoncloudtech.com/"
     "https://raisusa.onehermes.net/"
-    "https://dev-1.onehermes.net"
 )
 foreach ($url in $urls) {
     try {
